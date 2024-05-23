@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Darklify</string>
+    <string name="light_wallpaper">Light Wallpaper</string>
+    <string name="dark_wallpaper">Dark Wallpaper</string>
+    <string name="no_image_selected">No Image Selected</string>
+    <string name="customize">Customize</string>
+    <string name="applying_wallpaper">Applying the Wallpaper</string>
+    <string name="please_wait">Please Wait!</string>
+    <string name="enable_auto">Enable auto change:</string>
+</resources>
