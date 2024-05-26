@@ -10,8 +10,6 @@ Darklify is a dynamic wallpaper app designed to seamlessly switch between dark a
     <img src="/darklifydemo.png" alt="Darklify Demo" height="400px">
 </a>
 
-[![Watch the video](/darklifydemo.png)](https://rajaumair7890.github.io/darklifydemo)
-
 ## Features
 
 - **Auto-Switching Wallpapers**: Automatically switches between dark and light wallpapers when the system dark mode is toggled.
