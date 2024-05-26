@@ -1,11 +1,15 @@
 # Darklify
 
 Darklify is a dynamic wallpaper app designed to seamlessly switch between dark and light wallpapers based on your device's dark mode settings. Built using Jetpack Compose and Compose Material 3, Darklify offers a smooth, modern UI experience with dynamic colors and custom animations.
+
 ![ScreenShot](/DarklifyCover.png)
+
 ## Demo
+
 <a href="https://rajaumair7890.github.io/darklifydemo">
-    <img src="/darklifydemo.png" alt="Darklify Demo" height="400px">
+    <img src="/darklifydemo.png" alt="Darklify Demo" height="300px">
 </a>
+
 ## Features
 
 - **Auto-Switching Wallpapers**: Automatically switches between dark and light wallpapers when the system dark mode is toggled.
