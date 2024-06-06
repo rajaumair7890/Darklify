@@ -6,10 +6,11 @@ Darklify is a dynamic wallpaper app designed to seamlessly switch between dark a
 
 ## Demo
 <div>
-<video controls>
-            <source src="/DarklifyDemo.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+<video controls src="/DarklifyDemo.mp4" type="video/mp4"></video>
+</div>
+
+<br/>
+    <div><video controls src="https://github.com/Anthonyy232/Paperize/assets/60626873/015afb04-e3f3-4641-b8f9-707cfa26d16f" muted="true"></video></div>
 </div>
 
 <a href="https://rajaumair7890.github.io/darklifydemo">
